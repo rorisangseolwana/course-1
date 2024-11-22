@@ -47,3 +47,10 @@ The *Empowering the Nation* app is a well-designed tool for providing essential 
 By addressing these areas for improvement, this app could become an even more powerful platform for skills training and personal development, reaching more people and providing them with the tools they need to succeed.
 
  
+![contact](https://github.com/user-attachments/assets/06280941-ae5b-476b-b173-2b8833aebdbf)
+![home](https://github.com/user-attachments/assets/68c57378-d897-46af-9308-1b21d696c75e)
+![courses 2](https://github.com/user-attachments/assets/6de1ca79-bbd6-4e1a-8344-9834d7e84203)
+![courses](https://github.com/user-attachments/assets/92a3359b-0171-4664-8590-45bbf151ea3f)
+
+
+
